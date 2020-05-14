@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "29e623e6b057250a9c489e128c00c2a4",
+    "revision": "8c1e45dfaa23d411b8ecaf5f4bf1ec9c",
     "url": "/yahtzee/index.html"
   },
   {
-    "revision": "313d3202eb1e893237f1",
-    "url": "/yahtzee/static/css/main.e9acd81b.chunk.css"
+    "revision": "67291c4e00e04a3d2e7c",
+    "url": "/yahtzee/static/css/main.525cb608.chunk.css"
   },
   {
     "revision": "aff898a42bc495c375a9",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/yahtzee/static/js/2.3510c84e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "313d3202eb1e893237f1",
-    "url": "/yahtzee/static/js/main.3bc98ec6.chunk.js"
+    "revision": "67291c4e00e04a3d2e7c",
+    "url": "/yahtzee/static/js/main.b37e6cf5.chunk.js"
   },
   {
     "revision": "234ed74a85f314829608",
